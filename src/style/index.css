@@ -1,0 +1,35 @@
+body {
+    background: #eeeeee;
+    color: #555555;
+  }
+  
+  .todo-list {
+    position: relative;
+    margin: 30px auto;
+    background: #ffffff;
+    width: 600px;
+    padding: 20px 20px 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 2px;
+  }
+  
+  .todo-list h1 {
+    margin: 0;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  
+  .list-group-flush> .list-group-item {
+    padding: 8px 0px;
+  }
+  
+  .todo-footer {
+    border-top: 1px solid #dddddd;
+    background: #f4ce81;
+    margin: 0px -20px -10px;
+    padding: 10px 20px;
+  }
+  
+  .mark-all-done {
+    margin-top: 10px;
+  }
